@@ -18,5 +18,7 @@ namespace Vets.Models
         public double Peso { get; set; }
 
         public string Foto { get; set; }
+
+        // FK para a 'tabela' dos Donos
     }
 }
